@@ -24,7 +24,7 @@
 
 Мною было создано 3 баг-репорта по приложениям VK Music, Ипотечный калькулятор и Трекер подписок.
 
-- [VK Music](https://github.com/igor260689/bugreports/blob/main/VK%20Music)
+- [Баг Репорты](https://github.com/igor260689/bugreports/blob/main/README.md)
 
 
 Данное портфолио будет пополняться в зависимости от моего опыта и кейсов.
