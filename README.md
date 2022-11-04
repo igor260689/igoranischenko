@@ -14,6 +14,8 @@
 
 - https://qa-academy.by/qaacademy/news/klassifikaciya-vidov-testirovaniya/?ysclid=l5znbr9t78184035604
 
+По ходу дела гуглил отдельные моменты, чтобы вникнуть чуть глубже.
+
 Далее, я решил углубиться и прошел бесплатный курс от Яндекс.Практикум 
 
 - https://practicum.yandex.ru/profile/career-advisor/ 
